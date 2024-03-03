@@ -9,13 +9,13 @@ ___
 
 **Dataset :** https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
 
-**Documentation :** https://github.com/GoppyKrishna-77/AI_8138_CSE_TEAM9/blob/main/AI_Phase5/Project_Documentation.md
+**Documentation :** https://github.com/GoppyKrishna-77/TwitterSentimentAnalysis/blob/main/Project_Documentation.md
 
-**Source Code :** https://github.com/GoppyKrishna-77/AI_8138_CSE_TEAM9/blob/main/AI_Phase5/AI_Phase5.ipynb 
+**Source Code :** https://github.com/GoppyKrishna-77/TwitterSentimentAnalysis/blob/main/model.ipynb
 
-**Predicted Dataset :** https://github.com/GoppyKrishna-77/AI_8138_CSE_TEAM9/blob/main/AI_Phase5/Tweets_Input.csv
+**Predicted Dataset :** https://github.com/GoppyKrishna-77/TwitterSentimentAnalysis/blob/main/Tweets_Input.csv
 
-**Dashboard Code :** https://github.com/GoppyKrishna-77/AI_8138_CSE_TEAM9/blob/main/AI_Phase5/dash.py
+**Dashboard Code :** https://github.com/GoppyKrishna-77/TwitterSentimentAnalysis/blob/main/dash.py
 
 ___
 
@@ -66,7 +66,7 @@ This information helps the Companies to improve their products and services by o
 
 1. Install the required Dependancies and Dataset.
 2. Execute the [Source Code](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment) file (AI_Phase5/AI_Phase5.ipynb) to Pre-process the data, Train Data Models and Generate a Input dataset for Visualizing in the Dashboard.
-3. Execute the [Dashboard Code](https://github.com/GoppyKrishna-77/AI_8138_CSE_TEAM9/blob/main/AI_Phase5/dash.py) file (AI_Phase5/dash.py), using the following:
+3. Execute the [Dashboard Code](https://github.com/GoppyKrishna-77/TwitterSentimentAnalysis/blob/main/dash.py) file (AI_Phase5/dash.py), using the following:
    ```streamlit run dash.py```
 to create a Dashboard Using Streamlit.
 
@@ -79,5 +79,5 @@ to create a Dashboard Using Streamlit.
 
 ### **Dashboard**
 
-![dashboard](https://github.com/GoppyKrishna-77/AI_8138_CSE_TEAM9/assets/83293163/ff5fa64c-c3a0-4c0f-9ab7-965b8b42212d)
+![dashboard](https://github.com/GoppyKrishna-77/TwitterSentimentAnalysis/blob/main/dashboard.png)
 
